@@ -1,5 +1,7 @@
 # Neuro-House
 
-Household binder. Data stays on the phone.
+Open the live app, then Add to Home Screen.
 
-Open `index.html` in a browser, or serve the folder and add to home screen.
+Live: https://raw.githack.com/cwitt1719-lgtm/neuro-house-app/main/index.html
+
+Data stays on the phone.
